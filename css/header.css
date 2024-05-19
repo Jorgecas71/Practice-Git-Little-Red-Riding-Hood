@@ -1,0 +1,15 @@
+header {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 20px;
+    margin: auto;
+    background: linear-gradient(#f8ecf9, #fbaef7);
+    
+    h1 {
+      font-size: 36px;
+      padding-top: 15px;
+      color: rgb(70, 12, 45);
+  }
+  
+  }
